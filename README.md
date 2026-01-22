@@ -40,5 +40,14 @@ Linkedin da criadora: https://www.linkedin.com/in/gabrielarinaldi02/
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU_USUARIO/linux-server-hardening.git](https://github.com/SEU_USUARIO/linux-server-hardening.git)
-   cd linux-server-hardening
+   git clone https://github.com/gabyrinaldy/sysadmin-security-scripts.git
+   cd sysadmin-security-scripts
+
+2. **Execute o Script:**
+   ### Audit.sh
+   ```bash
+   sudo ./audit.sh
+
+### Hardening.sh
+   ```bash
+   sudo ./hardening.sh
